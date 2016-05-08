@@ -7,3 +7,4 @@
 >* [3.初识AndroidUI](https://github.com/XINCGer/AndroidProgrammingBasicTraining/tree/master/AndroidBasicUI)
 >* [4.Activity入门](https://github.com/XINCGer/AndroidProgrammingBasicTraining/tree/master/ActivityBasic)
 >* [5.数据存储](https://github.com/XINCGer/AndroidProgrammingBasicTraining/tree/master/DataStorage)
+>* [6.SQLite数据库](https://github.com/XINCGer/AndroidProgrammingBasicTraining/tree/master/SQLiteDataBase)
